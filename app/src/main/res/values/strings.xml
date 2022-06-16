@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Finger Speed Game</string>
+    <string name="timer">Timer</string>
+    <string name="thousend">Thousend</string>
+    <string name="tab_tab">Tab Tab</string>
+</resources>
